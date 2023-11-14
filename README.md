@@ -19,6 +19,8 @@ Acessar a página https://blogdoagi.com.br/, encontrar a barra de pesquisa e faz
 
 Baixar e instalar:
 
+- Node.js
+
 - Cypress
 
 - Allure
