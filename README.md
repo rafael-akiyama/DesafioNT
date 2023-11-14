@@ -1,6 +1,6 @@
 ## ***DESAFIO***
 
-Desenvolver a execução de dois cenários de teste web de forma automatizada.
+Desenvolver a executar dois cenários de teste web, de forma automatizada.
 
 Contexto: Executar dois cenários baseados no campo de pesquisa do Blog do Agi
 
