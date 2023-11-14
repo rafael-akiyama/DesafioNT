@@ -15,7 +15,7 @@ Acessar a página https://blogdoagi.com.br/, encontrar a barra de pesquisa e faz
 
 Acessar a página https://blogdoagi.com.br/, encontrar a barra de pesquisa e fazer uma pesquisa de um termo inexistente, e validar o retorno
 
-Para rodar o projeto:
+## ***Para rodar o projeto:***
 
 Baixar e instalar:
 
