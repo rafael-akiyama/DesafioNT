@@ -23,13 +23,5 @@ Baixar e instalar:
 
 - Cypress
 
-- Allure
-
 Para rodar, utilizar os comandos:
-npm run cy:run
-
-Para criar report:
-npm run allure:generate
-
-Para visualizar o report:
-npm run allure:open
+npx cypress run --headed
